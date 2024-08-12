@@ -10,4 +10,4 @@ function updateTime() {
 }
 
 setInterval(updateTime, 1000);
-updateTime(); // initial call to display time immediately
+updateTime(); 
